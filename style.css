@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: 0;
 }
+@media (max-width: 768px) {
+    /* Estilos para dispositivos menores */
+}
+
 
 :root {
     --cor-de-fundo: #f0f4f8;
